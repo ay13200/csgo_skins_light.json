@@ -1,0 +1,1 @@
+# csgo_skins_light.json
